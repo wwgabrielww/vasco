@@ -14,7 +14,7 @@ ul
 display: flex;
 justify-content: space-between;
 list-style-type: none;
-padding: 16px;
+padding: 16px;                  
     }
    
 a {
@@ -25,7 +25,7 @@ text-decoration:none;
 header img {width: 150px;
       height: 150px;
     border-radius: 50% ;
-    border: 5px  solid greenyellow;
+    border: 5px  solid rgb(133, 221, 0);
 }
 
 .center {
@@ -34,12 +34,12 @@ text-align: center;
 
 }
 
-h1 { color:greenyellow;}
+h1 { color:rgb(131, 221, 40);}
 
 .container {
     padding: 0px 50px;}
 
-    nav a:hover {color:greenyellow;}
+    nav a:hover {color:(131, 221, 40);}
 
     footer img  {
 
