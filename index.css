@@ -1,4 +1,12 @@
 body {color: aliceblue;
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul { flex: ;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: 16px;
 
 }
+   
