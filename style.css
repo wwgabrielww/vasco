@@ -1,0 +1,13 @@
+<head>
+<style>
+  .outlined-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke: 1px black; /* Stroke na Webkit */
+    text-stroke: 1px black; /* Stroke padrão */
+    -webkit-text-fill-color: transparent; /* Para evitar que a cor do texto seja afetada */
+    fill: transparent;
+  }
+</style>
+</head>
