@@ -19,4 +19,13 @@ text-decoration:none;
 img {width: 150px;
       height: 150px;
     border-radius: 50% ;
+    border: 5px  solid olive;
 }
+
+.center {
+ 
+text-align: center;
+
+}
+
+h1 { color: olive;}
