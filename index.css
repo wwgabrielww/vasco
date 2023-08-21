@@ -25,7 +25,7 @@ text-decoration:none;
 header img {width: 150px;
       height: 150px;
     border-radius: 50% ;
-    border: 5px  solid olive;
+    border: 5px  solid greenyellow;
 }
 
 .center {
@@ -34,19 +34,25 @@ text-align: center;
 
 }
 
-h1 { color: olive;}
+h1 { color:greenyellow;}
 
 .container {
     padding: 0px 50px;}
 
-    nav a:hover {color: olive;}
+    nav a:hover {color:greenyellow;}
 
     footer img  {
 
         width: 40px;
          height: 40px;
+
     }
     
-h3 {color: olive}
+h3 {color:greenyellow}
 p{color: black;}
 .texto{color: black;}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
