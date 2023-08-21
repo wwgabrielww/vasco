@@ -16,7 +16,7 @@ color: white;
 text-decoration:none;
 }
 
-img {width: 150px;
+header img {width: 150px;
       height: 150px;
     border-radius: 50% ;
     border: 5px  solid olive;
@@ -34,4 +34,10 @@ h1 { color: olive;}
     padding: 0px 50px;}
 
     nav a:hover {color: olive;}
+
+    footer img  {
+
+        width: 40px;
+         height: 40px;
+    }
     
