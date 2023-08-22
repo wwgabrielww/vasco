@@ -103,3 +103,9 @@ footer p  {
     display: inline-block;
 
     }
+
+    .cabeçalho {
+
+        width: 24PX;
+        height: 24px;
+    }
