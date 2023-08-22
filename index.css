@@ -105,10 +105,12 @@ footer p  {
     }
 
    
-    .gg {
-display: inline-block;
-width: 240px;
-height: 24px;
+   
+
+    div header img  {
+        width: 24px;
+        height: 24px;
+
 
     }
-    img src: height: 24px;
+    
