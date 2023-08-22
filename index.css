@@ -40,7 +40,7 @@ text-align: center;
 h1 { color:rgb(131, 221, 40);}
 
 .container {
-    align-items: center;
+    
     
 
 
@@ -81,7 +81,7 @@ footer p  {
     color: rgb(93, 226, 4);
     text-shadow: -1px -1px 2px black, 1px -1px 2px black, -1px 1px 2px black, 1px 1px 2px black;}
 
-    .tt {font-size: 40px;
+    .tt {font-size: 20px;
         font-weight: bold;
         color: white;
         text-shadow: -1px -1px 2px black, 1px -1px 2px black, -1px 1px 2px black, 1px 1px 2px black;
