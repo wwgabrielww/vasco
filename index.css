@@ -104,8 +104,10 @@ footer p  {
 
     }
 
-    .cabeçalho {
+   
+    .gg {
+display: inline-block;
+width: 240px;
+height: 24px;
 
-        width: 24PX;
-        height: 24px;
     }
