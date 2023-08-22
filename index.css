@@ -40,6 +40,13 @@ text-align: center;
 h1 { color:rgb(131, 221, 40);}
 
 .container {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: -1px -1px 2px black, 1px -1px 2px black, -1px 1px 2px black, 1px 1px 2px black;
+    nav a :hover {color: rgb(93, 226, 4)
+
+
     padding: 0px 50px;}
 
     nav a:hover {color:(131, 221, 40);}
