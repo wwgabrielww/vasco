@@ -1,7 +1,7 @@
-@import url(index.html);
 
 
-body {color:white;
+
+body {color:rgb(255, 255, 255);
     background-image: url(./img/pantano.jpg);
     background-repeat:no-repeat;
     background-size:cover;
@@ -38,7 +38,7 @@ text-align: center;
 
 }
 
-h1 { color:rgb(131, 221, 40);}
+h1 { color:rgb(0, 0, 0);}
 
 .container {
     align-items: center;
